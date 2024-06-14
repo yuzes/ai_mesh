@@ -1,4 +1,4 @@
-# Team 55 - 3D Reconstruction from Gaussian Repair
+# 3D Reconstruction from Semantic Segmentation
 ## 1 Peoblem Definition
 3D modeling finds extensive applications across the movie, gaming, and
 architecture sectors. Particularly, the gaming industry has witnessed remarkable
